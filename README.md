@@ -1,6 +1,5 @@
 # survey-form
 
-
 ## Project Description 📝
 - It was our weekly project
 - I learnt how to make a survey form with new css and html codes
@@ -12,6 +11,9 @@
 - vscode
 - git
 - github
+
+## Demo
+https://s-blh.github.io/survey-form/
 
 ## Author 👩‍💻
 - LinkedIn: https://www.linkedin.com/in/sumita-balouch-959197309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
